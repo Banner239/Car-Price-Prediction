@@ -1,14 +1,14 @@
 Welcome to the Microsoft Stock Prediction project! This repository is dedicated to predicting Microsoft stock prices using regression techniques. The project leverages historical stock data and employs regression algorithms to forecast future stock prices.
 Table of Contents
 
-    Overview
-    Installation
-    Usage
-    Data
-    Regression Models
-    Results
-    Contributing
-    License
+    1.Overview
+    2.Installation
+    3.Usage
+    4.Data
+    5.Regression Models
+    6.Results
+    7.Contributing
+    8.License
 
 Overview
 
