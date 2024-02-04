@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Usage
 
-To run the project, execute the notebook using Jupyter:
+To run the project, execute the notebook using Jupyter Notebook:
 
 
 Make sure to customize the configuration and parameters as needed for your analysis.
