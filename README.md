@@ -8,6 +8,7 @@ Table of Contents
     5.Regression Models
     6.Results
     7.Contributing
+    8.License
 
 Overview
 
@@ -46,4 +47,8 @@ Contributing
 Contribution
 
 Contribute to this project by opening issues or submitting pull requests. Your insights and enhancements are greatly valued.
+
+License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your predictive analysis.
 
