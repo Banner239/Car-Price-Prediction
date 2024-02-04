@@ -32,19 +32,22 @@ Usage
 To run the project, execute the notebook using Jupyter:
 
 
-
 Make sure to customize the configuration and parameters as needed for your analysis.
+
 Data
 
 The dataset used for this project is stored in the data directory. It contains historical Microsoft stock prices along with relevant features. Feel free to explore and preprocess the data to suit your regression analysis.
-Regression Models
 
+Regression Models
 
 
 The project presents the results of regression models, evaluating their performance using metrics such as mean squared error, R-squared, etc. Visualizations and plots are provided to facilitate a comprehensive understanding of the model predictions.
 Contributing
 
+Contribution
+
 Contribute to this project by opening issues or submitting pull requests. Your insights and enhancements are greatly valued.
+
 License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your predictive analysis.
